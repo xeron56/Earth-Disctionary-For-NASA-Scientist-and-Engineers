@@ -1,0 +1,19 @@
+E:\John Leo's Documents\Programming\Pet Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+E:\John Leo's Documents\Programming\Pet Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+E:\John Leo's Documents\Programming\Pet Projects\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+E:\John Leo's Documents\Programming\Pet Projects\Dictionary\Dictionary\obj\Debug\Dictionary.frmMain.resources
+E:\John Leo's Documents\Programming\Pet Projects\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+E:\John Leo's Documents\Programming\Pet Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+E:\John Leo's Documents\Programming\Pet Projects\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+E:\John Leo's Documents\Programming\Pet Projects\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+E:\Documents\Programming\Pet Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+E:\Documents\Programming\Pet Projects\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+E:\Documents\Programming\Pet Projects\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+E:\Programming\Pet Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+E:\Programming\Pet Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+E:\Programming\Pet Projects\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+E:\Programming\Pet Projects\Dictionary\Dictionary\obj\Debug\Dictionary.frmMain.resources
+E:\Programming\Pet Projects\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+E:\Programming\Pet Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+E:\Programming\Pet Projects\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+E:\Programming\Pet Projects\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

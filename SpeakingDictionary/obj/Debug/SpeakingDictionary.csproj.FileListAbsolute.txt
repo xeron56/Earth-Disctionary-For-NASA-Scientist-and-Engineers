@@ -1,0 +1,52 @@
+E:\Programming\Pet Projects\TalkingDictionary\TalkingDictionary\bin\Debug\Dictionary.exe.config
+E:\Programming\Pet Projects\TalkingDictionary\TalkingDictionary\bin\Debug\Dictionary.exe
+E:\Programming\Pet Projects\TalkingDictionary\TalkingDictionary\bin\Debug\Dictionary.pdb
+E:\Programming\Pet Projects\TalkingDictionary\TalkingDictionary\obj\Debug\SpeakingDictionary.frmMain.resources
+E:\Programming\Pet Projects\TalkingDictionary\TalkingDictionary\obj\Debug\SpeakingDictionary.Properties.Resources.resources
+E:\Programming\Pet Projects\TalkingDictionary\TalkingDictionary\obj\Debug\SpeakingDictionary.csproj.GenerateResource.Cache
+E:\Programming\Pet Projects\TalkingDictionary\TalkingDictionary\obj\Debug\Dictionary.exe
+E:\Programming\Pet Projects\TalkingDictionary\TalkingDictionary\obj\Debug\Dictionary.pdb
+E:\Programming\Pet Projects\SpeakinDictionary\SpeakingDictionary\bin\Debug\Dictionary.exe.config
+E:\Programming\Pet Projects\SpeakinDictionary\SpeakingDictionary\bin\Debug\Dictionary.exe
+E:\Programming\Pet Projects\SpeakinDictionary\SpeakingDictionary\bin\Debug\Dictionary.pdb
+E:\Programming\Pet Projects\SpeakinDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csprojResolveAssemblyReference.cache
+E:\Programming\Pet Projects\SpeakinDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.frmMain.resources
+E:\Programming\Pet Projects\SpeakinDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.Properties.Resources.resources
+E:\Programming\Pet Projects\SpeakinDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csproj.GenerateResource.Cache
+E:\Programming\Pet Projects\SpeakinDictionary\SpeakingDictionary\obj\Debug\Dictionary.exe
+E:\Programming\Pet Projects\SpeakinDictionary\SpeakingDictionary\obj\Debug\Dictionary.pdb
+E:\Programming\Pet Projects\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.frmMain.resources
+E:\Programming\Pet Projects\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.Properties.Resources.resources
+E:\Programming\Pet Projects\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csproj.GenerateResource.Cache
+E:\Programming\Pet Projects\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.exe.config
+E:\Programming\Pet Projects\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.exe
+E:\Programming\Pet Projects\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.pdb
+E:\Programming\Pet Projects\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.exe
+E:\Programming\Pet Projects\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.pdb
+E:\Programming\Pet Projects\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csprojResolveAssemblyReference.cache
+E:\Programming\Pet Projects\--COMPLETED--\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.exe.config
+E:\Programming\Pet Projects\--COMPLETED--\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.exe
+E:\Programming\Pet Projects\--COMPLETED--\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.pdb
+E:\Programming\Pet Projects\--COMPLETED--\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.frmMain.resources
+E:\Programming\Pet Projects\--COMPLETED--\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.Properties.Resources.resources
+E:\Programming\Pet Projects\--COMPLETED--\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csproj.GenerateResource.Cache
+E:\Programming\Pet Projects\--COMPLETED--\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.exe
+E:\Programming\Pet Projects\--COMPLETED--\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.pdb
+E:\Programming\C#\Speaking Dictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.exe.config
+E:\Programming\C#\Speaking Dictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.exe
+E:\Programming\C#\Speaking Dictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.pdb
+E:\Programming\C#\Speaking Dictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.exe
+E:\Programming\C#\Speaking Dictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.pdb
+E:\Programming\C#\Speaking Dictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csprojResolveAssemblyReference.cache
+E:\Programming\C#\Speaking Dictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.frmMain.resources
+E:\Programming\C#\Speaking Dictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.Properties.Resources.resources
+E:\Programming\C#\Speaking Dictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csproj.GenerateResource.Cache
+C:\Users\MD. SHAHIDUL ISLAM\Desktop\SpeakingDictionary\bin\Debug\SpeakingDictionary.exe.config
+C:\Users\MD. SHAHIDUL ISLAM\Desktop\SpeakingDictionary\obj\Debug\SpeakingDictionary.pdb
+C:\Users\MD. SHAHIDUL ISLAM\Desktop\SpeakingDictionary\bin\Debug\SpeakingDictionary.exe
+C:\Users\MD. SHAHIDUL ISLAM\Desktop\SpeakingDictionary\bin\Debug\SpeakingDictionary.pdb
+C:\Users\MD. SHAHIDUL ISLAM\Desktop\SpeakingDictionary\obj\Debug\SpeakingDictionary.csprojResolveAssemblyReference.cache
+C:\Users\MD. SHAHIDUL ISLAM\Desktop\SpeakingDictionary\obj\Debug\SpeakingDictionary.frmMain.resources
+C:\Users\MD. SHAHIDUL ISLAM\Desktop\SpeakingDictionary\obj\Debug\SpeakingDictionary.Properties.Resources.resources
+C:\Users\MD. SHAHIDUL ISLAM\Desktop\SpeakingDictionary\obj\Debug\SpeakingDictionary.csproj.GenerateResource.Cache
+C:\Users\MD. SHAHIDUL ISLAM\Desktop\SpeakingDictionary\obj\Debug\SpeakingDictionary.exe
